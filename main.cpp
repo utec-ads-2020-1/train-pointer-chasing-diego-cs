@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "chasing.hpp"
 
-/* compile -> g++ main.cpp < input */
+/* compile -> g++ main.cpp -o exec */
+/* run -> ./exec < input */
 
 int main(int argc, char const *argv[]) {
         int a = 3, b = 3, c = 3;
